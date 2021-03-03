@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)
+
 # Multi-Task Learning
 
 This repo aims to implement several multi-task learning models and training strategies in PyTorch. The code base complements the following works: 
